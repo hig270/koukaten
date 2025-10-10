@@ -1,0 +1,19 @@
+﻿{
+    "idempotencyKey":  "test-0001",
+    "timestamp":  "2025-10-10T09:00:00+09:00",
+    "faceImage":  {
+                      "width":  200,
+                      "format":  "jpeg",
+                      "data":  null,
+                      "height":  200
+                  },
+    "faceScore":  0.87,
+    "embedding":  [
+                      0.013,
+                      -0.072,
+                      0.044,
+                      0.101,
+                      -0.055,
+                      0.02
+                  ]
+}
