@@ -7,7 +7,7 @@
 
 Raspberry Piに接続したカメラで人物を検出・識別し、入退室の記録をリアルタイムでWebアプリに反映します。部室の利用状況を可視化することで、オープンで活気ある空間の雰囲気づくりを目的に開発しました。
 
-このリポジトリは **バックエンド（Python / FastAPI）** を管理しています。フロントエンド側は[こちら](https://github.com/higuchi-learn/koukaten2025)。
+このリポジトリは **バックエンド（Python / FastAPI）** を管理しています。フロントエンド側は[こちら](https://github.com/hig270/koukaten2025)。
 
 ## 技術スタック
 
@@ -31,4 +31,4 @@ Raspberry Piに接続したカメラで人物を検出・識別し、入退室�
 ## リンク
 
 - 発表資料: https://www.canva.com/design/DAG1Mb6DHuk/p7vP5TPRKIIREpATK6HkZQ/view
-- フロントエンド側リポジトリ: https://github.com/higuchi-learn/koukaten2025
+- フロントエンド側リポジトリ: https://github.com/hig270/koukaten2025
